@@ -2,15 +2,15 @@ This repository is contains information related to the tool ExampleTool presente
 
 This repository is not the original repository for this tool. Here are some links to the original project:
 
-The Official Project Page, including source code
-The Tool on the Visual Studio Gallery
-A Video of the Tool
-In this repository, for ExampleTool you will find:
+The Official Project Page, including source code: https://github.com/okononen/dash 
+A Video of the Tool:  http://youtu.be/Jka_MsZet20
 
-:x: Source code (not available)
+In this repository, for DASHboards you will find:
+
+:white_check_mark: Source code
 :white_check_mark: The original tool (available)
-:white_check_mark: A slightly modified version of the tool Esha Sharma got working (available)
-This repository was constructed by Esha Sharma and Yihuan Dong under the supervision of Emerson Murphy-Hill. Thanks to Jane Smith and John Doe for their help in establishing this repository.
+
+This repository was constructed by Zarna Parekh under the supervision of Emerson Murphy-Hill. Thanks to Mr. Kononenko for his help in establishing this repository.
 
 
 dash
