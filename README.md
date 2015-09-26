@@ -1,3 +1,18 @@
+This repository is contains information related to the tool ExampleTool presented Foundations of Software Engineering, 1901. The tool was originally presented in  https://cs.uwaterloo.ca/~obaysal/icse14_kononenko_preprint.pdf.
+
+This repository is not the original repository for this tool. Here are some links to the original project:
+
+The Official Project Page, including source code
+The Tool on the Visual Studio Gallery
+A Video of the Tool
+In this repository, for ExampleTool you will find:
+
+:x: Source code (not available)
+:white_check_mark: The original tool (available)
+:white_check_mark: A slightly modified version of the tool Esha Sharma got working (available)
+This repository was constructed by Esha Sharma and Yihuan Dong under the supervision of Emerson Murphy-Hill. Thanks to Jane Smith and John Doe for their help in establishing this repository.
+
+
 dash
 ====
 
