@@ -3,11 +3,13 @@ This repository is contains information related to the tool ExampleTool presente
 This repository is not the original repository for this tool. Here are some links to the original project:
 
 The Official Project Page, including source code: https://github.com/okononen/dash
+
 A Video of the Tool:  http://youtu.be/Jka_MsZet20
 
 In this repository, for DASHboards you will find:
 
 :white_check_mark: Source code
+
 :white_check_mark: The original tool (available)
 
 This repository was constructed by Zarna Parekh under the supervision of Emerson Murphy-Hill. Thanks to Mr. Kononenko for his help in establishing this repository.
