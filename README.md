@@ -1,6 +1,6 @@
 This repository is contains information related to the tool ExampleTool presented Foundations of Software Engineering, 1901. The tool was originally presented in  https://cs.uwaterloo.ca/~obaysal/icse14_kononenko_preprint.pdf.
 
-This repository is not the original repository for this tool. Here are some links to the original project:
+This repository _is not_ the original repository for this tool. Here are some links to the original project:
 
 The Official Project Page, including source code: https://github.com/okononen/dash
 
