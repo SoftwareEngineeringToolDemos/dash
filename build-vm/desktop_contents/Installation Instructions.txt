@@ -1,0 +1,23 @@
+Getting Started:
+-----------------------------------------------------------------------------------------------------------------------------------------
+Issue trackers monitor the progress of software development “issues”, such as bug fixes and discussions about features. Typically, developers
+subscribe to issues they are interested in through the tracker, and are informed of changes and new developments via automated email. In
+practice, however, this approach does not scale well, as developers may receive large volumes of messages that they must sort through using
+their mail client; over time, it becomes increasingly challenging for them to maintain awareness of the issues that are relevant to their
+activities and tasks. To address this problem, DASH tool can be used, it presents personalized views of issues; developers indicate issues of
+interest and DASH presents customized views of their progress and informs them of changes as they occur.
+
+Installation Instructions
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+1. Install Apache2 server in the VM by running the command "sudo apt-get install apache2".
+2. Install git client in the VM by running the command "sudo apt-get install git".
+3. Check out git repository using command "git clone https://github.com/SoftwareEngineeringToolDemos/ICSE-2014-DASHboards.git" to any directory.
+4. Copy the contents of ICSE-2014-DASHboards directory to "/var/www/html/" directory.
+5. Navigate to bin folder and run "./idea.sh" command to open Intellij Idea IDE.
+6. Install python and pip tools using commands "sudo apt-get install python" and "sudo apt-get install python-pip".
+7. For CGI support in web-application, install cgi support by using commands "sudo pip install pytz" and "sudo a2enmod cgi".
+8. Replace settings.json file in /var/www/html/cgi-bin/ with settings.json file provided.
+9. Replace apache2.conf file in /etc/apache2/ with apache2.conf file provided.
+10. Open browser and select time period of your choice. Click submit to view issues, patches & reviews pertaining to that user.
+11. Please check if the webserver in settings.json is alive. Try with different elastic clusters with bugzilla database to find results.

@@ -9,7 +9,6 @@ Vagrant.configure(2) do |config|
    end
 
    config.vm.provision "shell", inline: <<-SHELL
-	gsettings set com.canonical.Unity.Launcher favorites "['application://ubiquity.desktop', 'application://nautilus.desktop', 'application://unity-control-center.desktop', 'unity://running-apps', 'application://firefox.desktop' ,'unity://expo-icon', 'unity://devices']"
 	sudo apt-get update
 	sudo apt-get install -y apache2
 	sudo apt-get install -y git
@@ -29,6 +28,13 @@ Vagrant.configure(2) do |config|
 	sudo service apache2 restart 
 	sudo cp -r /vagrant/desktop_files/* /home/vagrant/Desktop
 	sudo chmod -R 777 /home/vagrant/Desktop
+
+	# Remove unused icons from sidebar (making VM as minimal as possible)
+	sudo rm -f "/usr/share/applications/ubuntu-amazon-default.desktop"
+	sudo rm -f "/usr/share/applications/libreoffice-calc.desktop"
+	sudo rm -f "/usr/share/applications/libreoffice-writer.desktop"
+	sudo rm -f "/usr/share/applications/libreoffice-impress.desktop"
+	sudo rm -f "/usr/share/applications/ubuntu-software-center.desktop"
 
    SHELL
 
