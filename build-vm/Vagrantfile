@@ -26,7 +26,7 @@ Vagrant.configure(2) do |config|
 	chmod -R 777 /var/www/html/
 	chmod -R 777 /etc/apache2/
 	sudo service apache2 restart 
-	sudo cp -r /vagrant/desktop_files/* /home/vagrant/Desktop
+	sudo cp -r /vagrant/desktop_contents/* /home/vagrant/Desktop
 	sudo chmod -R 777 /home/vagrant/Desktop
 
 	# Remove unused icons from sidebar (making VM as minimal as possible)
