@@ -10,7 +10,7 @@ In this repository, for DASHboards you will find:
   - :white_check_mark: Source code
   - :white_check_mark: The original tool (available)
 
-This repository was constructed by Zarna Parekh under the supervision of Emerson Murphy-Hill. Thanks to Mr. Kononenko for his help in establishing this repository.
+This repository was constructed by Zarna Parekh under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Mr. Kononenko for his help in establishing this repository.
 
 
 dash
