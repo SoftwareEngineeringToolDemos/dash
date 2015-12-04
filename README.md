@@ -26,10 +26,9 @@ The server side requires Apache, with Python CGI scripting enabled.  The server 
 
   * pytz: ```pip install pytz```
   * HTML: Found at [http://www.decalage.info/files/HTML.py-0.04.zip](http://www.decalage.info/files/HTML.py-0.04.zip)
-You may need to delete ```python\Lib\site-packages\html.py``` before you run
-```setup.py```
+You may need to delete ```python\Lib\site-packages\html.py``` before you run  ```setup.py```
 
-# Current Repository:
+## Current Repository: 
 
 # ICSE-2014-DASHboards
 
@@ -46,6 +45,7 @@ This repository _is not_ the original repository for this tool. Here are some li
 In this repository, for DASHboards you will find:
   - :white_check_mark: [Source code](https://github.com/okononen/dash)
   - :white_check_mark: [The original tool](http://dl.acm.org/citation.cfm?id=2591075)
+  - :white_check_mark: [Virtual Machine containing tool](https://drive.google.com/file/d/0BzqaLwWtXSQgUHEyOXhuam9fUG8/view?usp=sharing)
 
 This repository was constructed by [Ankit Bhandari](https://github.com/Ankit491) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). 
 
