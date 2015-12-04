@@ -1,9 +1,10 @@
 # ICSE-2014-DASHboards
+
 Dash provides Mozilla developers with customized dashboards that summarize their current Bugzilla issues.
 
 ***
 
-This repository contains information related to the tool Dash presented International Conference on Software Engineering, 2014. The tool was originally presented in [this paper] (http://dl.acm.org/citation.cfm?id=2591075) [PDF] (https://cs.uwaterloo.ca/~obaysal/icse14_kononenko_preprint.pdf).
+This repository contains information related to the tool Dash presented International Conference on Software Engineering, 2014. The tool was originally presented in [this paper] (http://dl.acm.org/citation.cfm?id=2591075)
 
 This repository _is not_ the original repository for this tool. Here are some links to the original project:
   - [The Official Project Page](https://github.com/okononen/dash)
