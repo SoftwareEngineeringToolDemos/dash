@@ -13,7 +13,7 @@ In this repository, for DASHboards you will find:
   - :white_check_mark: [Source code](https://github.com/okononen/dash)
   - :white_check_mark: [The original tool](http://dl.acm.org/citation.cfm?id=2591075)
 
-This repository was constructed by [Zarna Parekh](https://github.com/zarna1parekh) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). 
+This repository was constructed by [Ankit Bhandari](https://github.com/Ankit491) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). 
 
 ## Attribution
 
