@@ -43,9 +43,9 @@ This repository _is not_ the original repository for this tool. Here are some li
   - [A Video of the Tool](http://youtu.be/Jka_MsZet20)
 
 In this repository, for DASHboards you will find:
-  - :white_check_mark: [Source code](https://github.com/okononen/dash)
-  - :white_check_mark: [The original tool](http://dl.acm.org/citation.cfm?id=2591075)
-  - :white_check_mark: [Virtual Machine containing tool](https://drive.google.com/file/d/0BzqaLwWtXSQgUHEyOXhuam9fUG8/view?usp=sharing)
+* :white_check_mark: [Source code](.)
+* :x: Executable tool (not available)
+* :white_check_mark: [Virtual machine containing tool](http://go.ncsu.edu/SE-tool-VMs)
 
 This repository was constructed by [Ankit Bhandari](https://github.com/Ankit491) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). 
 
